@@ -48,7 +48,6 @@ app.js: JavaScript logic for managing tasks and interacting with the DOM.
 Enter a task in the input field and click the "Add" button to create a new task.
 View all tasks under the "My Tasks" section.
 Mark a task as completed by checking the checkbox.
-Remove a task by clicking the trash icon.
 Save your tasks by clicking the "Save" button, ensuring they persist across sessions.
 
 **Future Enhancements**
